@@ -7,13 +7,23 @@ This project implements a Music Recommendation Engine using the Collaborative Fi
 **Input**: userId = 2093760
 
 **Recommended artists for user:**
+
 The Game
+
 Nas
+
 2Pac
+
 Notorious B.I.G.
+
 Ludacris
+
 Busta Rhymes
+
 DMX
+
 Xzibit
+
 G-Unit
+
 50 Cent
