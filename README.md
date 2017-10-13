@@ -8,22 +8,13 @@ This project implements a Music Recommendation Engine using the Collaborative Fi
 
 **Recommended artists for user:**
 
-The Game
-
-Nas
-
-2Pac
-
-Notorious B.I.G.
-
-Ludacris
-
-Busta Rhymes
-
-DMX
-
-Xzibit
-
-G-Unit
-
-50 Cent
+The Game <br />
+Nas <br />
+2Pac <br />
+Notorious B.I.G. <br />
+Ludacris . <br />
+Busta Rhymes <br />
+DMX <br />
+Xzibit <br />
+G-Unit <br />
+50 Cent <br />
